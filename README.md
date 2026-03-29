@@ -2,6 +2,8 @@
 
 A personal finance tracker built as a modern SPA — no backend, no registration. All data lives in your browser's localStorage.
 
+**[Live Demo → spend-wise-flax.vercel.app](https://spend-wise-flax.vercel.app/)**
+
 ![SpendWise](https://img.shields.io/badge/React-18-61dafb?logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6?logo=typescript) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38bdf8?logo=tailwindcss) ![Vite](https://img.shields.io/badge/Vite-5-646cff?logo=vite)
 
 ## Features
